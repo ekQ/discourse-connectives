@@ -2,10 +2,10 @@
 
 This is a data release accompaning this paper:
 
-  Title: "Automatic Prediction of Discourse Connectives"
-  Authors: "Eric Malmi, Daniele Pighin, Sebastian Krause, Mikhail Kozhevnikov"
-  URL: "https://arxiv.org/abs/1702.00992"
-  Published on: "3 Feb 2017"
+-  Title: "Automatic Prediction of Discourse Connectives"
+-  Authors: "Eric Malmi, Daniele Pighin, Sebastian Krause, Mikhail Kozhevnikov"
+-  URL: "https://arxiv.org/abs/1702.00992"
+-  Published on: "3 Feb 2017"
 
 ## Contents
 
