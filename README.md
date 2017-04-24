@@ -14,8 +14,12 @@ This dataset consists of:
 - 2.9 million pairs of adjacent sentences extracted from the English Wikipedia
   on September 5, 2016, including the discourse connective at the beginning of
   the second sentence, if any, i.e., the "gold" connective
-  (files: connective_examples/discourse_connectives_wikipedia_part[0-9] (see
-  the first file for field descriptions)).
+  - The data has been split into ten files:
+    connective_examples/discourse_connectives_wikipedia_part[0-9] (see the 
+    first file for field descriptions).
+  - NB: One should either uppercase the first character of the second sentence
+    or lowercase the whole second sentence before trying to predict the
+    connective to avoid giving away the presence of a connective.
 - Training, development and test splits used in our experiments (in the splits
   directory).
 - For 10,000 sentences, the connectives independently imputed by three human
